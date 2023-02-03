@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.navbar-total-question,
+.navbar-time-remaing {
+  font-size: 1.5rem;
+  padding: 1rem;
+  font-weight: 700;
+}

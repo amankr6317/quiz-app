@@ -1,0 +1,21 @@
+.Home {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.Home-item {
+  width: 80%;
+  margin: auto;
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 20px #888888;
+}
+
+.Home-item-index {
+  font-weight: 600;
+  text-align: end;
+  margin-right: 1rem;
+  font-size: large;
+}

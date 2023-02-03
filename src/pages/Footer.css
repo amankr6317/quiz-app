@@ -1,0 +1,14 @@
+.footer {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 1rem;
+}
+
+.footer-button {
+  width: 100%;
+  margin-top: 2rem;
+  font-size: 1rem;
+  padding: 0.6rem;
+  font-weight: 700;
+  border-radius: 0.5rem;
+}

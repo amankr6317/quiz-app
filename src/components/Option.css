@@ -1,0 +1,9 @@
+.options {
+  width: 50%;
+  margin: 0.8rem;
+  border-radius: 0.5rem;
+  padding: 0.4rem;
+  margin-left: 8%;
+  border: 2px solid black;
+  font-weight: 500;
+}
